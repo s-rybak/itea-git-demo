@@ -1,2 +1,1 @@
-echo "Hello world!";
-echo "feture 1";
+echo "Hello world";
